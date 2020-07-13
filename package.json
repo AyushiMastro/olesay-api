@@ -13,9 +13,14 @@
     "url": "https://github.com/AnomalyInnovations/serverless-nodejs-starter.git"
   },
   "devDependencies": {
+    "aws-sdk": "^2.712.0",
     "serverless-bundle": "^1.2.5",
     "serverless-dotenv-plugin": "^2.1.1",
     "serverless-offline": "^5.3.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "dynamoose": "github:dynamoose/dynamoose#master",
+    "jwt-decode": "^2.2.0",
+    "uuid": "^7.0.3"
+  }
 }

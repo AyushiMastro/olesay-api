@@ -1,0 +1,8 @@
+{
+  "body": "{\"id\":1,\"productName\":\"XYZ\",\"description\":\"hello\",\"productPrice\":20,\"condition\":\"sdfdsfsd\",\"adRating\":5}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
